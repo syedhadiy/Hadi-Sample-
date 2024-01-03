@@ -1,0 +1,7 @@
+body {
+    background-image: url("Kids\ Fashion.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  img {border-style: double;}
+  body{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
